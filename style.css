@@ -2,12 +2,8 @@ html{
     margin:0 auto;
     background-size: 100% auto;
     background-color:#ffffff;
-    background-image:url(loading.png);
+    background-image:url(bg.jpg);
     background-repeat:no-repeat;
     background-attachment:fixed;
-
-}
-html{
     color:lightgreen;
-    
 }
