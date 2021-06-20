@@ -153,7 +153,7 @@ function j2(MD, Od, Na){
     let Oe = Na.length;
     while(L9 < Od){
         L9 += 1;
-        Of += jx(Na, j0(MD, Oe)+6);
+        Of += jx(Na, j0(MD, Oe)+7);
         MD = parseInt(MD / Oe);
     }
     return Of;
